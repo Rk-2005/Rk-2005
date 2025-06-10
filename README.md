@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hey there, I'm Ritesh Kriplani!
 
-<!--
-**Rk-2005/Rk-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech. Computer Science @ Shri Ramdeobaba College of Engineering and Management (SGPA: 9.65)  
+💻 Full-Stack Developer | Competitive Programmer | Tech Community Contributor
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a tech-driven developer passionate about building real-time, scalable web applications and solving complex algorithmic problems. I love turning ideas into products — whether it's building an online exam monitoring system or creating a dynamic real-time chat platform.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** JavaScript, TypeScript, C++, Java  
+**Web Dev:** React.js, Next.js, Node.js, Express.js, MongoDB  
+**Realtime & Backend:** Socket.IO, Prisma, JWT, Mongoose  
+**Styling:** Tailwind CSS  
+**Tools:** Git, GitHub, VS Code, Postman  
+**CS Core:** Data Structures & Algorithms, Competitive Programming  
+
+---
+
+## 📫 Let's Connect!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/ritesh-kriplani-5140b127b/)   
+📧 kriplanira@rknec.edu  
+
+---
+
+✨ Always open to exciting projects, collaborations, and hackathons!

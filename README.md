@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a tech-driven developer passionate about building real-time, scalable web applications and solving complex algorithmic problems. I love turning ideas into products — whether it's building an online exam monitoring system or creating a dynamic real-time chat platform.
+I'm a tech-driven developer passionate about building real-time, scalable web applications and solving complex algorithmic problems. I love turning ideas into products.
 
 ---
 

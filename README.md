@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ritesh Kriplani!
 
-🎓 B.Tech. Computer Science @ Shri Ramdeobaba College of Engineering and Management (SGPA: 9.65)  
+🎓 B.Tech. Computer Science @ Shri Ramdeobaba College of Engineering and Management (CGPA:8.96)
 💻 Full-Stack Developer | Competitive Programmer | Tech Community Contributor
 
 ---
